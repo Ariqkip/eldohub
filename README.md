@@ -18,6 +18,6 @@ Display the following :
 ## Screenshot
 
 
-![Screenshot 1]([![Screenshot_2023-07-14_11-05-48](https://github.com/Ariqkip/eldohub/assets/93204539/8d712012-6353-4176-9980-f0d63cafcf42](https://github.com/Ariqkip/eldohub/blob/main/Screenshot_2023-07-14_10-31-20.png)https://github.com/Ariqkip/eldohub/blob/main/Screenshot_2023-07-14_10-31-20.png)
+![Screenshot 1](Screenshot_2023-07-14_10-31-20.png
 )
 
